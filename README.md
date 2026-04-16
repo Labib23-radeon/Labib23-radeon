@@ -78,17 +78,6 @@ A modern, secure, and responsive web platform that connects students with verifi
 
 ---
 
-### 4. **Labib23-radeon**
-**Tech:** (Specify tech stack if you want)  
-**Description:**  
-[Add a short description of this project here — currently no description is visible on GitHub]
-
-**Features:**  
-- ...
-
-[**View Project →**](https://github.com/Touhid-Hossain-Labib/Labib23-radeon)
-
----
 
 ## 🎓 Education
 
