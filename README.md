@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Computer Science & Engineering** student at **BAUST**. I bridge the gap between complex data and functional web applications. Currently, I'm diving deep into **Sentiment Analysis** and **AI-driven solutions**.
+I am a passionate **Computer Science & Engineering** student at **BAUST**. I bridge the gap between complex data and functional web applications.
 
-[**Explore My Portfolio**](#-my-projects) • [**Connect on LinkedIn**](https://linkedin.com/in/touhid-hossain-labib)
+[**Connect on LinkedIn**](https://linkedin.com/in/touhid-hossain-labib)
 
 </div>
 
@@ -22,17 +22,21 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 ### 🛠️ My Tech Universe
 
 <div align="center">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql" />
-
-**Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=laravel,flask,django,bootstrap,jquery" />
-
-**Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm" />
-
+<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql,laravel,flask,django,bootstrap,git,github,vscode,jupyter" />
 </div>
+
+---
+
+### 🏆 My Achievements & Activity
+<p align="center">
+  <!-- GitHub Trophies - Fixed Link -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Labib23-radeon&theme=dracula&no-frame=false&margin-w=15" alt="github-profile-trophy" />
+</p>
+
+<p align="center">
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Labib23-radeon&theme=react-dark-alt&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -41,9 +45,8 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 #### 1. 🐍 Classic Snake Game
 *Clean logic, high-speed action, and nostalgic gameplay.*
 - **Tech:** `Python`, `Pygame`
-- **Features:** Difficulty scaling, score tracking, responsive controls.
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w6I6UMcy1Ie6C5ZOk/giphy.gif" width="400" alt="Snake Game Demo">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w6I6UMcy1Ie6C5ZOk/giphy.gif" width="400" alt="Snake Game Demo">
 </p>
 
 ---
@@ -51,7 +54,6 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 #### 2. 🧠 MentalHealthJournal
 *Sentiment-aware journaling for emotional well-being.*
 - **Tech:** `Java`, `Sentiment Analysis API`
-- **Features:** Visual mood charts, privacy encryption, progress insights.
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV3Zq3W1Yk/giphy.gif" width="400" alt="Mental Health Demo">
 </p>
@@ -60,17 +62,9 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 
 #### 3. 🎓 TutorFinder (Web Platform)
 *Bridging the gap between students and educators.*
-- **Tech:** `PHP (Laravel/Core)`, `MySQL`, `Bootstrap 5`
-- **Features:** Advanced filters, real-time messaging, booking system.
+- **Tech:** `PHP`, `MySQL`, `Bootstrap 5`
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ282Z282Z282Z282Z282Z282Z282Z282Z282Z282Z282Z282JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxS5vV6Z4Yw/giphy.gif" width="400" alt="Tutor Finder Demo">
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Labib23-radeon&theme=radical&column=7" alt="github-profile-trophy" /></a>
 </p>
 
 ---
@@ -78,21 +72,17 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Labib23-radeon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Labib23-radeon's Stats" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labib23-radeon&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Labib23-radeon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labib23-radeon&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <!-- Streak Stat -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Labib23-radeon&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📫 Get In Touch
+### 📫 Let's Connect!
 
 <div align="center">
 
@@ -103,5 +93,3 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 **"Turning ideas into working applications — one project at a time."** 💡
 
 </div>
-
-<p align="right"><i>Last Updated: April 2026</i></p>
