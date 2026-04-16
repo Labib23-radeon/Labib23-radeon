@@ -71,15 +71,22 @@ I am a passionate **Computer Science & Engineering** student at **BAUST**. I bri
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Touhid-Hossain-Labib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhid-Hossain-Labib&layout=compact&theme=tokyonight" />
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Touhid-Hossain-Labib&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Touhid's Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhid-Hossain-Labib&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touhid-Hossain-Labib&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Streak Stat -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touhid-Hossain-Labib&theme=radical" alt="GitHub Streak" />
 </div>
 
----
+### 🏆 GitHub Trophies
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Touhid-Hossain-Labib&theme=radical&column=7" alt="github-profile-trophy" /></a>
+</p>
 
 ### 📫 Get In Touch
 
