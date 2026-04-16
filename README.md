@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Touhid Hossain Labib!
+# 😸 Touhid Hossain Labib!
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=CSE+Student+@+BAUST;Python+Developer;Data+Science+Learner;Full-Stack+Enthusiast)
 
