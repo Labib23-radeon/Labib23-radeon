@@ -77,7 +77,24 @@ A modern, secure, and responsive web platform that connects students with verifi
 [**View Project →**](https://github.com/Touhid-Hossain-Labib/Tutor-Finding-Website)
 
 ---
+### 4. **Snake Game** 
+**Tech:** Python, Pygame  
+**Description:**  
+A classic Snake game built from scratch using Python and Pygame. This project showcases clean game logic, collision detection, score tracking, and smooth gameplay mechanics.
 
+**Features:**
+- Classic snake movement with arrow keys
+- Increasing difficulty (speed increases as snake grows)
+- Score system
+- Game Over screen with restart option
+- Clean and responsive controls
+
+**Controls:**
+- Arrow Keys → Move the snake
+- R → Restart after Game Over
+- Q → Quit the game
+
+[**View Project →**](https://github.com/Touhid-Hossain-Labib/Snake-Game)
 
 ## 🎓 Education
 
