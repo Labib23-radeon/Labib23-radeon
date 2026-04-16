@@ -1,127 +1,96 @@
-# Touhid Hossain Labib 😸
+<div align="center">
 
-**CSE Student @ BAUST** | Python & Data Science Learner | Full-Stack Enthusiast
+# 👋 Hello, I'm Touhid Hossain Labib!
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=CSE+Student+@+BAUST;Python+Developer;Data+Science+Learner;Full-Stack+Enthusiast)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Touhid-Hossain-Labib&color=0e75b6&style=flat&label=Profile+Views)
-
----
-
-## 🧭 About Me
-
-Passionate **Computer Science & Engineering** student at Bangladesh Army University of Science & Technology (BAUST). I enjoy building practical applications and exploring the world of **Python**, **Data Analysis**, **Web Development**, and **AI**.
-
-Currently focusing on:
-- Python Development & Data Science
-- Full-Stack Web Applications
-- Mental Health Tech & Sentiment Analysis
-- Problem-solving through code
-
-**Open to collaboration** and always eager to learn new technologies! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Touhid-Hossain-Labib&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
+I am a passionate **Computer Science & Engineering** student at **BAUST**. I bridge the gap between complex data and functional web applications. Currently, I'm diving deep into **Sentiment Analysis** and **AI-driven solutions**.
 
-- **Languages:** Python, Java, PHP, JavaScript, SQL
-- **Frontend:** Bootstrap 5, HTML, CSS
-- **Backend:** PHP (Laravel/CodeIgniter), Python (Flask/Django)
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Others:** Data Analysis, Sentiment Analysis, UI/UX Design
+[**Explore My Portfolio**](#-my-projects) • [**Connect on LinkedIn**](https://linkedin.com/in/touhid-hossain-labib)
+
+</div>
 
 ---
 
-## 📂 My Projects
+### 🛠️ My Tech Universe
 
-### 1. **To-do-app-** 
-**Tech:** Python  
-**Description:**  
-A clean and functional To-Do Application built in Python as my first major step into Python development. This project helped me understand core programming concepts while also exploring basic data analysis to turn daily tasks and productivity data into meaningful insights.
+<div align="center">
 
-**Features:**
-- Add, edit, delete & complete tasks
-- Data persistence
-- Basic productivity analytics
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,mysql" />
 
-[**View Project →**](https://github.com/Touhid-Hossain-Labib/To-do-app-)
+**Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=laravel,flask,django,bootstrap,jquery" />
 
----
+**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm" />
 
-### 2. **MentalHealthJournal**
-**Tech:** Java  
-**Description:**  
-A digital mental health journaling tool designed to support self-awareness and emotional well-being. Users can log their daily moods and thoughts while the system performs sentiment analysis and generates visual insights.
-
-**Key Features:**
-- Mood tracking with visual charts
-- Sentiment analysis on journal entries
-- Progress insights and statistics
-- Privacy-focused design
-
-[**View Project →**](https://github.com/Touhid-Hossain-Labib/MentalHealthJournal)
+</div>
 
 ---
 
-### 3. **Tutor-Finding-Website** (TutorFinder)
-**Tech:** PHP, MySQL, Bootstrap 5  
-**Description:**  
-A modern, secure, and responsive web platform that connects students with verified tutors. Users can search, book, message, and rate tutors with advanced filtering options.
+### 📂 Featured Projects
 
-**Features:**
-- Tutor search with advanced filters
-- Booking system
-- Student-Tutor messaging
-- Rating & review system
-- Admin panel for management
-
-[**View Project →**](https://github.com/Touhid-Hossain-Labib/Tutor-Finding-Website)
-
----
-### 4. **Snake Game** 
-**Tech:** Python, Pygame  
-**Description:**  
-A classic Snake game built from scratch using Python and Pygame. This project showcases clean game logic, collision detection, score tracking, and smooth gameplay mechanics.
-
-**Features:**
-- Classic snake movement with arrow keys
-- Increasing difficulty (speed increases as snake grows)
-- Score system
-- Game Over screen with restart option
-- Clean and responsive controls
-
-**Controls:**
-- Arrow Keys → Move the snake
-- R → Restart after Game Over
-- Q → Quit the game
-
-[**View Project →**](https://github.com/Touhid-Hossain-Labib/Snake-Game)
-
-## 🎓 Education
-
-- **B.Sc. in Computer Science & Engineering**  
-  Bangladesh Army University of Science & Technology (BAUST)  
-  *Expected Graduation: 2028*
+#### 1. 🐍 Classic Snake Game
+*Clean logic, high-speed action, and nostalgic gameplay.*
+- **Tech:** `Python`, `Pygame`
+- **Features:** Difficulty scaling, score tracking, responsive controls.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w6I6UMcy1Ie6C5ZOk/giphy.gif" width="400" alt="Snake Game Demo">
+</p>
 
 ---
 
-## 🌟 Currently Learning
+#### 2. 🧠 MentalHealthJournal
+*Sentiment-aware journaling for emotional well-being.*
+- **Tech:** `Java`, `Sentiment Analysis API`
+- **Features:** Visual mood charts, privacy encryption, progress insights.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvNHVvJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV3Zq3W1Yk/giphy.gif" width="400" alt="Mental Health Demo">
+</p>
 
-- Advanced Python & Data Science
-- Machine Learning & AI
-- Modern Web Development (React + Laravel)
-- Generative AI tools
+---
+
+#### 3. 🎓 TutorFinder (Web Platform)
+*Bridging the gap between students and educators.*
+- **Tech:** `PHP (Laravel/Core)`, `MySQL`, `Bootstrap 5`
+- **Features:** Advanced filters, real-time messaging, booking system.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ282Z282Z282Z282Z282Z282Z282Z282Z282Z282Z282Z282JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxS5vV6Z4Yw/giphy.gif" width="400" alt="Tutor Finder Demo">
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 📊 GitHub Stats
 
-- **Email:** [touhidlabib87@gmail.com]
-  - **LinkedIn:** [linkedin.com/in/touhid-hossain-labib]
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Touhid-Hossain-Labib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touhid-Hossain-Labib&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touhid-Hossain-Labib&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
+
+### 📫 Get In Touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:touhidlabib87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhid-hossain-labib)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Touhid-Hossain-Labib)
 
 **"Turning ideas into working applications — one project at a time."** 💡
 
-*Last Updated: April 2026*
+</div>
 
-
+<p align="right"><i>Last Updated: April 2026</i></p>
